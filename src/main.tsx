@@ -16,7 +16,7 @@ const Main = () => {
         dense
         preventDuplicate
         maxSnack={3}
-        autoHideDuration={2500}
+        autoHideDuration={5000}
         anchorOrigin={anchor}
       >
         <App setAnchor={setAnchor} />

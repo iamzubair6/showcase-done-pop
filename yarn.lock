@@ -873,10 +873,10 @@ dir-glob@^3.0.1:
   dependencies:
     path-type "^4.0.0"
 
-done-pop@^1.0.4:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/done-pop/-/done-pop-1.0.4.tgz#9b7e82d1ec260aeb0cd26229adf4315f1837f5c6"
-  integrity sha512-bhhF/vRhgFViSd/EijQhMQIHeScJmEfM70z4Ttt2nHc+6hsqsRLbaz1ND/lAwGnKvxvrW23vLVzR4UXyKOpQSQ==
+done-pop@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/done-pop/-/done-pop-1.0.5.tgz#9eb1e502cb4f9d4f308e15273a4baf73ca1ce05c"
+  integrity sha512-MgkJaPc2Gepq5VGtnpD4huy0r065Lb1fxIrpdlAga6drr+fkacvCnocQv7WdzxZaTTJJ5eEcvSXz3f0kcYLZLw==
   dependencies:
     "@types/styled-components" "^5.1.34"
     react "^18.3.1"
